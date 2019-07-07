@@ -1,0 +1,662 @@
+[
+  {
+    "floor": 1,
+    "major": 1,
+    "map_name": "A_map",
+    "minor": 11,
+    "num": 1,
+    "place": "A",
+    "room": "A本部棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 1,
+    "map_name": "A_map",
+    "minor": 21,
+    "num": 2,
+    "place": "A",
+    "room": "A本部棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 1,
+    "map_name": "A_map",
+    "minor": 31,
+    "num": 3,
+    "place": "A",
+    "room": "A本部棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 2,
+    "map_name": "B_map",
+    "minor": 21,
+    "num": 4,
+    "place": "B",
+    "room": "B図書館",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 3,
+    "map_name": "C_map",
+    "minor": 11,
+    "num": 5,
+    "place": "C",
+    "room": "C実習棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 3,
+    "map_name": "C_map",
+    "minor": 21,
+    "num": 6,
+    "place": "C",
+    "room": "C実習棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 4,
+    "map_name": "D_map",
+    "minor": 11,
+    "num": 7,
+    "place": "D",
+    "room": "D教職員共通棟（六角堂）",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 11,
+    "num": 8,
+    "place": "E",
+    "room": "E研究棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 12,
+    "num": 9,
+    "place": "E",
+    "room": "E研究棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 13,
+    "num": 10,
+    "place": "E",
+    "room": "E研究棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 21,
+    "num": 11,
+    "place": "E",
+    "room": "E研究棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 22,
+    "num": 12,
+    "place": "E",
+    "room": "E研究棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 23,
+    "num": 13,
+    "place": "E",
+    "room": "E研究棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 31,
+    "num": 14,
+    "place": "E",
+    "room": "E研究棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 32,
+    "num": 15,
+    "place": "E",
+    "room": "E研究棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 33,
+    "num": 16,
+    "place": "E",
+    "room": "E研究棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 4,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 41,
+    "num": 17,
+    "place": "E",
+    "room": "E研究棟4階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 4,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 42,
+    "num": 18,
+    "place": "E",
+    "room": "E研究棟4階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 4,
+    "major": 5,
+    "map_name": "E_map",
+    "minor": 43,
+    "num": 19,
+    "place": "E",
+    "room": "E研究棟4階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 11,
+    "num": 20,
+    "place": "F",
+    "room": "F講義棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 12,
+    "num": 21,
+    "place": "F",
+    "room": "F講義棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 21,
+    "num": 22,
+    "place": "F",
+    "room": "F講義棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 22,
+    "num": 23,
+    "place": "F",
+    "room": "F講義棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 31,
+    "num": 24,
+    "place": "F",
+    "room": "F講義棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 6,
+    "map_name": "F_map",
+    "minor": 32,
+    "num": 25,
+    "place": "F",
+    "room": "F講義棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 7,
+    "map_name": "G_map",
+    "minor": 11,
+    "num": 26,
+    "place": "G",
+    "room": "G厚生棟（食堂前）",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 7,
+    "map_name": "G_map",
+    "minor": 21,
+    "num": 27,
+    "place": "G",
+    "room": "G厚生棟（談話室前）",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 8,
+    "map_name": "H_map",
+    "minor": 11,
+    "num": 28,
+    "place": "H",
+    "room": "H体育館（休憩室）",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 8,
+    "map_name": "H_map",
+    "minor": 21,
+    "num": 29,
+    "place": "H",
+    "room": "H体育館",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 11,
+    "num": 30,
+    "place": "K",
+    "room": "K生物工学研究センター1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 12,
+    "num": 31,
+    "place": "K",
+    "room": "K生物工学研究センター1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 21,
+    "num": 32,
+    "place": "K",
+    "room": "K生物工学研究センター2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 22,
+    "num": 33,
+    "place": "K",
+    "room": "K生物工学研究センター2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 31,
+    "num": 34,
+    "place": "K",
+    "room": "K生物工学研究センター3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 32,
+    "num": 35,
+    "place": "K",
+    "room": "K生物工学研究センター3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 4,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 41,
+    "num": 36,
+    "place": "K",
+    "room": "K生物工学研究センター4階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 4,
+    "major": 9,
+    "map_name": "K_map",
+    "minor": 42,
+    "num": 37,
+    "place": "K",
+    "room": "K生物工学研究センター4階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 10,
+    "map_name": "L_map",
+    "minor": 11,
+    "num": 38,
+    "place": "L",
+    "room": "L合同棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 10,
+    "map_name": "L_map",
+    "minor": 12,
+    "num": 39,
+    "place": "L",
+    "room": "L合同棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 10,
+    "map_name": "L_map",
+    "minor": 21,
+    "num": 40,
+    "place": "L",
+    "room": "L合同棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 10,
+    "map_name": "L_map",
+    "minor": 22,
+    "num": 41,
+    "place": "L",
+    "room": "L合同棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 11,
+    "num": 42,
+    "place": "M",
+    "room": "M生物工学科棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 12,
+    "num": 43,
+    "place": "M",
+    "room": "M生物工学科棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 21,
+    "num": 44,
+    "place": "M",
+    "room": "M生物工学科棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 22,
+    "num": 45,
+    "place": "M",
+    "room": "M生物工学科棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 31,
+    "num": 46,
+    "place": "M",
+    "room": "M生物工学科棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 11,
+    "map_name": "M_map",
+    "minor": 32,
+    "num": 47,
+    "place": "M",
+    "room": "M生物工学科棟3階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 12,
+    "map_name": "W1_map",
+    "minor": 11,
+    "num": 48,
+    "place": "W1",
+    "room": "W1西棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 12,
+    "map_name": "W1_map",
+    "minor": 21,
+    "num": 49,
+    "place": "W1",
+    "room": "W1西棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 12,
+    "map_name": "L_map",
+    "minor": 31,
+    "num": 50,
+    "place": "W1",
+    "room": "L合同棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 13,
+    "map_name": "W2_map",
+    "minor": 11,
+    "num": 51,
+    "place": "W2",
+    "room": "W2西棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 13,
+    "map_name": "W2_map",
+    "minor": 21,
+    "num": 52,
+    "place": "W2",
+    "room": "W2西棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 13,
+    "map_name": "W2_map",
+    "minor": 31,
+    "num": 53,
+    "place": "W2",
+    "room": "西棟周辺",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 1,
+    "major": 14,
+    "map_name": "W3_map",
+    "minor": 11,
+    "num": 54,
+    "place": "W3",
+    "room": "W3西棟1階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 2,
+    "major": 14,
+    "map_name": "W3_map",
+    "minor": 21,
+    "num": 55,
+    "place": "W3",
+    "room": "W3西棟2階",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 3,
+    "major": 14,
+    "map_name": "W3_map",
+    "minor": 31,
+    "num": 56,
+    "place": "W3",
+    "room": "西棟周辺",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 15,
+    "map_name": "pastel_map",
+    "minor": 1,
+    "num": 57,
+    "place": "",
+    "room": "パステル工房",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 15,
+    "map_name": "pastel_map",
+    "minor": 2,
+    "num": 58,
+    "place": "",
+    "room": "パステル工房",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 16,
+    "map_name": "stage_map",
+    "minor": 1,
+    "num": 59,
+    "place": "",
+    "room": "ステージ",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 16,
+    "map_name": "stage_map",
+    "minor": 2,
+    "num": 60,
+    "place": "",
+    "room": "ステージ",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 16,
+    "map_name": "stage_map",
+    "minor": 3,
+    "num": 61,
+    "place": "",
+    "room": "ステージ",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 17,
+    "map_name": "funsui_map",
+    "minor": 1,
+    "num": 62,
+    "place": "",
+    "room": "噴水前",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 17,
+    "map_name": "funsui_map",
+    "minor": 2,
+    "num": 63,
+    "place": "",
+    "room": "噴水前",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 17,
+    "map_name": "funsui_map",
+    "minor": 3,
+    "num": 64,
+    "place": "",
+    "room": "噴水前",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 18,
+    "map_name": "himawari_map",
+    "minor": 1,
+    "num": 65,
+    "place": "",
+    "room": "ひまわり畑",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  },
+  {
+    "floor": 0,
+    "major": 18,
+    "map_name": "himawari_map",
+    "minor": 2,
+    "num": 66,
+    "place": "",
+    "room": "ひまわり畑",
+    "uuid": "000000006dc81001b000001c4d88ed46"
+  }
+]
