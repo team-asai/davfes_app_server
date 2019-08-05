@@ -2,6 +2,7 @@ package handlers
 
 import (
 	"fmt"
+	"log"
 	"os"
 	"strings"
 
@@ -46,6 +47,8 @@ func getConnectionString() string {
 	} else {
 		dbargs = ""
 	}
+	log.Println(fmt.Sprintf("%s:%s@%s([%s]:%s)/%s%s",
+		user, pass, protocol, host, port, dbname, dbargs))
 	return fmt.Sprintf("%s:%s@%s([%s]:%s)/%s%s",
 		user, pass, protocol, host, port, dbname, dbargs)
 }

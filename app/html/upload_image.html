@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>画像アップロード</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <form method="POST" enctype="multipart/form-data" action=./save>
+      <select name="type">
+          <option value="icon">icon</option>
+          <option value="picture">picture</option>
+      </select>
+      id:<input type="text" name="id" value="">
+      <fieldset>
+          <input type="file" name="upload_file" id="upload_file" >
+          <input type="submit" name="submit" value="アップロード開始">
+      </fieldset>
+    </form>
+</body>
+</html>

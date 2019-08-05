@@ -642,21 +642,21 @@
   {
     "floor": 0,
     "major": 18,
-    "map_name": "himawari_map",
+    "map_name": "W4_map",
     "minor": 1,
     "num": 65,
     "place": "",
-    "room": "ひまわり畑",
+    "room": "W4西棟1階",
     "uuid": "000000006dc81001b000001c4d88ed46"
   },
   {
     "floor": 0,
     "major": 18,
-    "map_name": "himawari_map",
+    "map_name": "W4_map",
     "minor": 2,
     "num": 66,
     "place": "",
-    "room": "ひまわり畑",
+    "room": "W4西棟2階",
     "uuid": "000000006dc81001b000001c4d88ed46"
   }
 ]
